@@ -9,4 +9,4 @@ If you are using R, Rdata is for you and you probably know what to do with it.
 Download xlsx only if for some reason the csv is not working for you. I do not recommend this because I might have used a depricated function for conversion of Rdata to xlsx.
 
 ## How to update data
-If you want Aug 19 or the latest data for any day in the future, run the jupyter notebook top to bottom. The jupyter notebook uses an R kernet NOT a python kernel. WARNING: You have to manually enter in the data for the first row in the table from the data source, which if remains alphabetically sorted, is Andaman and Nicobar, in the R script. The code is commented to find out the exact place.
+If you want Aug 19 or the latest data for any day in the future, run the jupyter notebook top to bottom. The jupyter notebook uses an R kernel NOT a python kernel. WARNING: You have to manually enter in the data for the first row in the table from the data source, which if it remains alphabetically sorted by state name, is Andaman and Nicobar, in the R script. The code is commented to find out the exact place to enter the first row.
